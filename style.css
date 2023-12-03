@@ -1,0 +1,17 @@
+body {
+	background-color: whitesmoke ;
+}
+
+#maintext{
+	font-size: 30px;
+	color: red;
+
+}
+
+#ball{
+	width: 400px;
+	height: 400px;
+	background-color: black;
+	border-radius: 200px;
+	position: sticky;
+}
