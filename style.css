@@ -2,6 +2,12 @@ body {
 	background-color: whitesmoke ;
 }
 
+#outro{
+	color: red;
+	font-size: 30px;
+	font-style: italic;
+}
+
 #maintext{
 	font-size: 30px;
 	color: red;
@@ -13,5 +19,140 @@ body {
 	height: 400px;
 	background-color: black;
 	border-radius: 200px;
-	position: sticky;
+	position: relative;
+}
+
+#block1{
+	width: 400px;
+	height: 90px;
+	background: red;	
+	position: relative;
+	top: 10px;
+	left: 3000px;
+}
+#block2{
+	width: 40px;
+	height: 900px;
+	background: red;	
+	position: relative;
+	top: 1000px;
+	left: 7000px;
+}
+#block3{
+	width: 70px;
+	height: 900px;
+	background: red;	
+	position: relative;
+	top: 1000px;
+	left: 7050px;
+}
+#block4{
+	width: 200px;
+	height: 900px;
+	background: red;	
+	position: relative;
+	top: 1090px;
+	left: 7150px;
+}
+#block5{
+	width: 40px;
+	height: 500px;
+	background: red;	
+	position: relative;
+	top: 1070px;
+	left: 7400px;
+}
+#block6{
+	width: 90px;
+	height: 20px;
+	background: red;	
+	position: relative;
+	top: 2000px;
+	left: 7500px;
+}
+#block7{
+	width: 3000px;
+	height: 10px;
+	background: red;	
+	position: relative;
+	top: 5000px;
+	left: 2000px;
+}
+#block8{
+	width: 4000px;
+	height: 9000px;
+	background: red;	
+	position: relative;
+	top: 10px;
+	left: 2000px;
+}
+
+#block9{
+	width: 4000000px;
+	height: 1400px;
+	background: red;	
+	position: relative;
+	top: 2000px;
+	left: 5000px;
+}
+
+#block10{
+	width: 230px;
+	height: 1500px;
+	background: red;	
+	position: relative;
+	top: 9000px;
+	left: 5200px;
+}
+
+#block11{
+	width: 100px;
+	height: 900px;
+	background: red;	
+	position: relative;
+	top: 1500px;
+	left: 11000px;
+}
+
+#block12{
+	width: 4000px;
+	height: 90px;
+	background: red;	
+	position: relative;
+	top: 10px;
+	left: 10000px;
+}
+
+#block13{
+	width: 90px;
+	height: 4000px;
+	background: red;	
+	position: relative;
+	top: 10px;
+	left: 10000px;
+}
+
+#block14{
+	width: 400px;
+	height: 200px;
+	background: red;	
+	position: relative;
+	top: 10px;
+	left: 20000px;
+}
+#block15{
+	width: 20px;
+	height: 790px;
+	background: red;	
+	position: relative;
+	top: 10px;
+	left: 30000px;
+}
+#block16{
+	width: 400px;
+	height: 400px;
+	background: red;	
+	position: relative;
+	top: 10px;
+	left: 40000px;
 }
