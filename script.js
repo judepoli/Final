@@ -1,8 +1,8 @@
 const ball = document.getElementById("ball");
 let x = 0;
 let y = 0;
-let xSpeed = 0.5;
-let ySpeed = 0.5;
+let xSpeed = 0.3;
+let ySpeed = 0.3;
 let circleX;
 let circleY;
 let width = screen.width; 
